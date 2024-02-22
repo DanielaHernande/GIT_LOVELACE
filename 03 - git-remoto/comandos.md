@@ -1,6 +1,6 @@
 # Comando para conectar mi git local con git en la nube
 
-- git remote add nombre_conexion url_conexion
+- git remote add nombre_conexion url_conexion /* El nombre de la conexion es mejor poner origin */
 
 # Comando para clonar o traer un repositorio de git remoto 
 
@@ -30,3 +30,4 @@
 - git pull /*Obtener*/
 - git pull nombre_conexion nombre_rama 
 
+## Titulo 2
